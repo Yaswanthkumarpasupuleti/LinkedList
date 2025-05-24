@@ -21,4 +21,12 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Yaswanthkumarpasupuleti/LinkedList/tree/master/0021-merge-two-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Yaswanthkumarpasupuleti/LinkedList/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+## Greedy
+|  |
+| ------- |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Yaswanthkumarpasupuleti/LinkedList/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 <!---LeetCode Topics End-->
