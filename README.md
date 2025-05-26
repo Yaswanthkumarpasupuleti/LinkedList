@@ -6,6 +6,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Yaswanthkumarpasupuleti/LinkedList/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Yaswanthkumarpasupuleti/LinkedList/tree/master/0142-linked-list-cycle-ii) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Yaswanthkumarpasupuleti/LinkedList/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Yaswanthkumarpasupuleti/LinkedList/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Linked List
 |  |
@@ -47,5 +48,22 @@
 ## Counting
 |  |
 | ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Yaswanthkumarpasupuleti/LinkedList/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Yaswanthkumarpasupuleti/LinkedList/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Yaswanthkumarpasupuleti/LinkedList/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Graph
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Yaswanthkumarpasupuleti/LinkedList/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Yaswanthkumarpasupuleti/LinkedList/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Memoization
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/Yaswanthkumarpasupuleti/LinkedList/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
