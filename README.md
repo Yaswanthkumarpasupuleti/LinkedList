@@ -9,6 +9,7 @@
 | [1500-count-largest-group](https://github.com/Yaswanthkumarpasupuleti/LinkedList/tree/master/1500-count-largest-group) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Yaswanthkumarpasupuleti/LinkedList/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Yaswanthkumarpasupuleti/LinkedList/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Yaswanthkumarpasupuleti/LinkedList/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Linked List
 |  |
 | ------- |
@@ -33,6 +34,7 @@
 | [1293-three-consecutive-odds](https://github.com/Yaswanthkumarpasupuleti/LinkedList/tree/master/1293-three-consecutive-odds) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Yaswanthkumarpasupuleti/LinkedList/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Yaswanthkumarpasupuleti/LinkedList/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Yaswanthkumarpasupuleti/LinkedList/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Greedy
 |  |
 | ------- |
